@@ -98,6 +98,33 @@ We encourage you to contribute to Project
 ## Report 
 
 
+1. https://hackerone.com/reports/125980
+2. https://hackerone.com/reports/230232
+3. https://hackerone.com/reports/423541
+4. https://hackerone.com/reports/399462
+5. https://twitter.com/albinowax/status/718014765113741317
+6. https://clement.notin.org/blog/2020/04/15/Server-Side-Template-Injection-/(SSTI/)-in-ASP.NET-Razor/
+7. https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html
+8. https://infosecwriteups.com/leveraging-template-injection-to-takeover-an-account-1dba7c4ae315
+9. https://cyc10n3.medium.com/rce-via-server-side-template-injection-ad46f8e0c2ae
+10. https://infosecwriteups.com/reflected-xss-on-microsoft-com-via-angular-template-injection-2e26d80a7fd8
+11. https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/
+12. https://akshukatkar.medium.com/rce-with-flask-jinja-template-injection-ea5d0201b870
+13. https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html
+14. https://infosecwriteups.com/frapp%C3%A9-technologies-erpnext-server-side-template-injection-74e1c95ec872
+15. http://ha.cker.info/exploitation-of-server-side-template-injection-with-craft-cms-plguin-seomatic/
+16. https://web.archive.org/web/20201207232241/https://www.mohamedharon.com/2018/01/reflected-xss-possible-server-side.html
+17. https://ackcent.com/in-depth-freemarker-template-injection/
+18. [Reflected XSS and Server Side Template Injection  in all HubSpot CMSes](https://hackerone.com/reports/399462) to HubSpot - 61 upvotes, $0
+19. XSS in $shop$.myshopify.com/admin/ via twine template injection in "Shopify.API.Modal.input" method when using a malicious app to Shopify - 31 upvotes, $1000
+20. Reflected XSS on developer.uber.com via Angular template injection to Uber - 28 upvotes, $3000
+21. [mercantile.wordpress.org] Reflected XSS via AngularJS Template Injection to WordPress - 28 upvotes, $300
+22. Stored xss via template injection to WordPress - 10 upvotes, $300
+23. Stored Cross-Site Scripting via Angular Template Injection to New Relic - 2 upvotes, $0
+
+
+
+
 
 
 
