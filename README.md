@@ -117,10 +117,9 @@ We encourage you to contribute to Project
 17. https://ackcent.com/in-depth-freemarker-template-injection/
 18. [Reflected XSS and Server Side Template Injection  in all HubSpot CMSes](https://hackerone.com/reports/399462) to HubSpot - 61 upvotes, $0
 19. XSS in $shop$.myshopify.com/admin/ via twine template injection in "Shopify.API.Modal.input" method when using a malicious app to Shopify - 31 upvotes, $1000
-20. Reflected XSS on developer.uber.com via Angular template injection to Uber - 28 upvotes, $3000
-21. [mercantile.wordpress.org] Reflected XSS via AngularJS Template Injection to WordPress - 28 upvotes, $300
-22. Stored xss via template injection to WordPress - 10 upvotes, $300
-23. Stored Cross-Site Scripting via Angular Template Injection to New Relic - 2 upvotes, $0
+20. https://hackerone.com/reports/164224
+21. https://hackerone.com/reports/250837
+22. https://hackerone.com/reports/904672
 
 
 
