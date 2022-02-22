@@ -94,6 +94,14 @@ https://www.linkedin.com/in/mohammad-hussein-namadi-775baa131/
 Twitter : @Dmitriy_area51
 LinkedIn : https://www.linkedin.com/in/omid-shojaei
 
+
+## Fix 
+
+We encourage you to contribute to Project and Fix Codes
+
+If you want to pull request please follow this :
+
+CONTRIBUTION.md
   
 ## Report 
 
