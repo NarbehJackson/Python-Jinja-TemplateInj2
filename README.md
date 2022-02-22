@@ -90,9 +90,8 @@ We encourage you to contribute to Project
 
 ## Twitter & Facebook Contributor :
 
-   https://www.linkedin.com/in/omid-shojaei
-   
-   https://twitter.com/dmitriy_area51
+Twitter : @Dmitriy_area51
+LinkedIn : https://www.linkedin.com/in/omid-shojaei
 
   
 ## Report 
